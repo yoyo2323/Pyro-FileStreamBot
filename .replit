@@ -1,2 +1,2 @@
 language = "bash"
-run = "pip3 install -r requirements.txt; python3 -m WebStreamer"
+run = "python3 -m WebStreamer"
